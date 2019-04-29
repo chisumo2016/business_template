@@ -1,7 +1,9 @@
 /*==============================================
         Basic Properties Starts
 ===============================================*/
-
+body{
+    height:2000px;
+}
 *{
     margin:     0;
     padding:    0;
@@ -13,6 +15,7 @@
     padding:22px 0;
     /*background-color: #34495E !important;*/
     border-bottom: none !important;
+    transition: all 0.5s ease-out;
 }
 
 .navbar ul li a
@@ -25,11 +28,21 @@
     transition: all 0.5s ease-in;
 }
 
-.navbar ul li a:hover {  color: #00BFFF !important; }
+.navbar ul li a:hover
+{
+    color: #00BFFF !important;
+    background: none !important;
+}
+
+.icon-bar{
+    color: #FFF !important;
+    background-color: white !important;
+}
 
 .navbar-toggle
 {
     border: 1px solid #FFF !important;
+    color:  #FFF !important;
     transition: all 0.5s ease-in;
 }
 
@@ -156,10 +169,28 @@
     border:1px solid #00BFFF;
 }
 
+.slider .text, .slider .typed-cursor{
+    display: inline;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.primary{
+    color: #FF4500;
+}
+
+.typed-cursor
+{
+    opacity: 1;
+    animation: blink 0.7s infinite;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+}
 
 
-
-
+.secondary{
+    background-color: #34495E;
+}
 
 
 
