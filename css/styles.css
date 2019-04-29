@@ -156,6 +156,74 @@
     border:1px solid #00BFFF;
 }
 
+.slider .text, .slider .typed-cursor{
+    display: inline;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.primary{
+    color: #FF4500;
+}
+
+.typed-cursor
+{
+    opacity: 1;
+    animation: blink 0.7s infinite;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+}
+
+@keyframes blink
+{
+    0%
+    {
+        opacity: 1;
+    }
+    50%
+    {
+        opacity: 0;
+    }
+    1000%
+    {
+        opacity: 1;
+    }
+}
+
+
+@-webkit-keyframes blink
+
+{
+    0%
+    {
+        opacity: 1;
+    }
+    50%
+    {
+        opacity: 0;
+    }
+    1000%
+    {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes blink
+
+{
+    0%
+    {
+        opacity: 1;
+    }
+    50%
+    {
+        opacity: 0;
+    }
+    1000%
+    {
+        opacity: 1;
+    }
+}
 
 
 
