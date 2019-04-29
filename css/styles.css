@@ -1,0 +1,39 @@
+*{
+    margin:     0;
+    padding:    0;
+}
+/* Style For Navigation  Menus */
+.navbar
+{
+    padding:22px 0;
+    background-color: #34495E !important;
+    border-bottom: none !important;
+}
+
+.navbar ul li a
+{
+    color: #FFFF !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 13px;
+    transition: all 0.5s ease-in;
+}
+
+.navbar ul li a:hover {  color: #00BFFF !important; }
+
+.navbar-toggle
+{
+    border: 1px solid #FFF !important;
+    transition: all 0.5s ease-in;
+}
+
+.navbar-toggle:hover{color: #00BFFF !important; }
+
+
+.navbar-inverse .navbar-collapse
+{
+    border-color: transparent !important;
+}
+
+/* Style For Navigation  Menus END  */
