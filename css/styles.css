@@ -616,7 +616,33 @@ h4.team-member-designation{
 }
 
 
+/*Counter Stat Section Area*/
+.counter-stat-area
+{
+    background-image: url(../image/cover-bg-1.jpg);
+    background-position: center;
+    padding-top:180px;
+    padding-bottom:200px;
+    color: #FFF;
+    background-attachment:fixed;
+    margin-top:100px;
+}
 
+.counter-stat-area i{
+    font-size:80px;}
+
+.stat-items h2
+{
+    font-weight:bolder;
+    font-size:42px;
+    color: #00BFFF;
+}
+
+.counter-stat-area p
+{
+    font-weight: bolder;
+    letter-spacing:5px;
+}
 
 
 
