@@ -2,6 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16d58d14-d66d-4727-b715-354dd06b4e40" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3-back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3-front copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3-front.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/Black-Wood-Footer-Background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/client-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/client-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/client-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cover-bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cover_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/faq-mockup.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/fiveteam.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/help-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/oneone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/oneteam.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/play-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/reviews.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/slider-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/slider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/team-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/team-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/team-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/team-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/team-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/video.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -20,18 +56,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="147" column="36" lean-forward="false" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
+            <state relative-caret-position="36">
+              <caret line="158" column="33" lean-forward="true" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style_js.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/style_js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-207">
-              <caret line="227" column="0" lean-forward="true" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+            <state relative-caret-position="279">
+              <caret line="313" column="19" lean-forward="false" selection-start-line="313" selection-start-column="19" selection-end-line="313" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -48,15 +94,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>image</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/style_js.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/style_js.js" />
       </list>
     </option>
   </component>
@@ -117,6 +171,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="business_template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="business_template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -131,6 +199,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\laragon\www\business_template\js" />
+      <recent name="C:\laragon\www\business_template\css" />
+      <recent name="C:\laragon\www\business_template\image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,7 +285,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20618000" />
+    <option name="totallyTimeSpent" value="24254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -299,26 +369,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/style_js.js">
+    <entry file="file://$PROJECT_DIR$/js/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="147" column="36" lean-forward="false" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="227" column="0" lean-forward="true" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+        <state relative-caret-position="279">
+          <caret line="313" column="19" lean-forward="false" selection-start-line="313" selection-start-column="19" selection-end-line="313" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.magnific-popup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="158" column="33" lean-forward="true" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/style_js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding />
         </state>
       </provider>

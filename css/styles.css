@@ -289,6 +289,32 @@
 }
 
 
+/*WORKS SECTION*/
+
+.work{margin-top: 25px;}
+
+.row.no-gutters [class*=col]
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.image-wrapper{
+    overflow: hidden;
+}
+
+.image-wrapper img{
+    transition: transform 0.5s ease;
+    width:100%;
+}
+
+
+.image-wrapper img:hover{
+    transform:  scale(1.5);
+    cursor: zoom-in;
+}
+
+
 
 
 
