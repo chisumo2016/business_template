@@ -619,7 +619,7 @@ h4.team-member-designation{
 /*Counter Stat Section Area*/
 .counter-stat-area
 {
-    background-image: url(../image/cover-bg-1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,.0,0.8)), url(../image/cover-bg-1.jpg);
     background-position: center;
     padding-top:180px;
     padding-bottom:200px;
@@ -642,6 +642,59 @@ h4.team-member-designation{
 {
     font-weight: bolder;
     letter-spacing:5px;
+}
+
+
+/*Contact Section Area*/
+.contact-area {margin-top: 80px;}
+.form-control
+{
+    border-radius: 0 !important;
+    border:1px solid #34495E !important;
+}
+
+.contact-form button.btn
+{
+    font-size:1.8rem;
+    font-weight:700;
+    padding:12px 43px;
+    border: 1px solid #000000;
+    border-radius:  0;
+}
+
+.border-bottom-now
+{
+    width:40px;
+    height:2px;
+    background: #000000;
+    margin:0 auto;
+}
+
+.contact-infos {
+    float: left;
+    width: 100%;
+    margin-top:90px;
+    margin-bottom:-30px;
+    background: #008D8D;
+    padding-top:35px;
+    padding-bottom:35px;
+}
+
+.contact-infos .fa
+{
+    color:  #FFF;
+    font-size: 26px;
+    border: 1px solid #FFF;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    line-height: 50px;
+}
+
+.contact-infos p
+{
+    color: #FFF;
+    margin-top:15px;
 }
 
 
