@@ -76,6 +76,7 @@ jQuery().ready(function () {
     });
 
 
+    new WOW().init();
 
 });
 
