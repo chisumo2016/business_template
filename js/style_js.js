@@ -63,7 +63,19 @@ jQuery().ready(function () {
         time: 4000
     });
 
-    $('.smooth-scroll').smoothScroll();
+    // $('.smooth-scroll').smoothScroll();
+    $('.smooth-scroll').click(function (event) {
+        event.preventDefault();
+
+        var section = $(this).attr("href");
+        $('html, body').animate({
+
+            scrollTop: $(section).offset().top - -2
+
+        },1250, "easeInOutExpo");
+    });
+
+
 
 });
 
