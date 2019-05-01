@@ -16,10 +16,10 @@ body{ overflow-x: hidden;}
 
 .navbar
 {
-    padding: 22px 0;
+    padding: 24px 0;
     /*background-color: #34495E !important;*/
     border-bottom: none !important;
-    transition: all 0.5s ease-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .navbar ul li a
@@ -30,9 +30,10 @@ body{ overflow-x: hidden;}
     letter-spacing: 1px;
     font-size: 13px;
     transition: all 0.5s ease-in;
+    background: transparent !important;
 }
 
-.navbar ul li a:hover
+.navbar ul li a:hover , .navbar ul li a:focus    /*by adding .navbar ul li a:focus  the menu will remain selected*/
 {
     color: #00BFFF !important;
     background: none !important;
