@@ -697,8 +697,81 @@ h4.team-member-designation{
     margin-top:15px;
 }
 
+/*MAP SECTION AREA*/
+.maps-area
+{
+    margin-top:30px;
+    width:100% !important;
+}
 
 
+/*FOOTER SECTION AREA*/
+
+.footer_area
+{
+    background: url("../image/Black-Wood-Footer-Background.jpg");
+    background-size:cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    padding-top:145px;
+    background-attachment:fixed;
+}
+
+.social-icon_area a
+{
+    margin:0 16px 20px 16px
+}
+
+
+.footer_area .fa
+{
+    font-size:30px;
+    color: deepskyblue;
+    width:80px;
+    height:80px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: #FFF;
+    line-height: 2;
+    border:10px solid #34495E;
+    text-align: center;
+    transition: all 0.7s ease-in;
+}
+
+.footer_area .fab
+{
+    font-size:30px;
+    color: deepskyblue;
+    width:80px;
+    height:80px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: #FFF;
+    line-height: 2;
+    border:10px solid #34495E;
+    text-align: center;
+    transition: all 0.7s ease-in;
+}
+
+.social-icon_area a:hover .fa
+{
+    border: 10px solid #FFF;
+    transform: rotate(360deg);
+}
+
+.social-icon_area a:hover .fab
+{
+    border: 10px solid #FFF;
+    transform: rotate(360deg);
+}
+
+.border_line_now
+{
+    width:40px;
+    border-bottom: 2px solid #FFFFFF;
+    margin:0 auto;
+    margin-top:20px;
+}
 
 
 
